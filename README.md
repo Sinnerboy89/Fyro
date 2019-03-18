@@ -6,9 +6,11 @@ Buchanan, Christopher G., and Michael J. Newton. "Dynamic Balanced Model Truncat
 
 Other material:
 
-Thesis presentation: https://www.researchgate.net/publication/308665037_Real-time_3D_Audio_Synthesis_Analytical_Approximations_of_the_Spherical_Transfer_Function
+AES AVAR 2018 presentation: https://www.researchgate.net/publication/331843356_Dynamic_Balanced_Model_Truncation_of_the_Spherical_Transfer_Function_For_Use_in_Structural_HRTF_Models
 
 2nd Post-grad AES UK Symposium 2017 poster winner: https://www.researchgate.net/publication/313870469_STRUCTURAL_MODELLING_OF_THE_HRTF_A_BALANCED_MODEL_TRUNCATION_OF_THE_INTERAURAL_LEVEL_DIFFERENCE
+
+2016 Thesis presentation: https://www.researchgate.net/publication/308665037_Real-time_3D_Audio_Synthesis_Analytical_Approximations_of_the_Spherical_Transfer_Function
 
 Questions and queries? Please ask!
 
