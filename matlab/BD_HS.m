@@ -4,14 +4,12 @@ clear all;
 
 c = 343; % speed of sound in metres per second
 theta = pi/4; % azimuth of source
-phi = 0; % elevation of source
 gamma_le = -pi/2; % azimuth of left ear
 gamma_re = pi/2; % azimuth of right ear
 a_h = 0.0875; % average radius of adult human head (according to B & D)
 e2e = 0.215; % distance between ears, used for ITDs
 alpha_min = 0.1; % values chosen by B & D as reasonable starting points before personalization
 theta_min = 150*pi/180; % values chosen by B & D as reasonable starting points before personalization
-G_sh = 0.25; % reflection coefficient of shoulder
 
 %|----------Audio file read-in----------|
 
